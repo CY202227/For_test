@@ -1,0 +1,17 @@
+ultralytics~=8.3.10
+opencv-python~=4.10.0.84
+pillow~=10.4.0
+numpy~=1.26.4
+tensorflow~=2.16.1
+pywin32~=307
+tqdm~=4.66.5
+torch~=2.4.1
+PyYAML~=6.0.2
+onnxruntime~=1.19.2
+requests~=2.32.3
+psutil~=6.0.0
+matplotlib~=3.9.2
+scipy~=1.14.1
+yolo~=0.3.1
+PyQt5~=5.15.11
+keras~=3.6.0
